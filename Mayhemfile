@@ -1,0 +1,5 @@
+project: xlsx2csv
+target: xlsx2csv
+
+cmds:
+  - cmd: /xlsx2csv @@
